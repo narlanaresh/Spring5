@@ -1,8 +1,0 @@
-com\rest\fileupload\services\PhoneBookServiceImpl.class
-com\rest\fileupload\util\PhoneBookUtil.class
-com\rest\fileupload\constants\Message.class
-com\rest\fileupload\dao\PhoneBookDao.class
-com\rest\fileupload\dao\PhoneBookDaoImpl.class
-com\rest\fileupload\services\PhoneBookService.class
-com\rest\fileupload\controller\PhoneBookRestController.class
-com\rest\fileupload\entities\PhoneBook.class
