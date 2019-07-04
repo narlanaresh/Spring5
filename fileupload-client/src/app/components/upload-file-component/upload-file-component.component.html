@@ -1,0 +1,18 @@
+
+<div>
+  <form [formGroup] = "uploadForm" (ngSubmit)="onSubmit()" >
+    <div>
+      <input type="file" name="file"  (change)="onFileSelect($event)" />
+    </div>
+    <div>
+      <button type="submit">Upload</button>
+    </div>
+  </form>
+
+  <ul *ngFor="let contact of searchcontacts "> <li>{{ contact.phoneNumber}}</li></ul>
+
+  <input type="text" name="searchPhoneNumberTxt" [(ngModel)]="searchPhoneNumberTxt"/>
+  <input type="button" name="searchPhoneNumberButton" value="Search" (click)="searchData()"/>
+
+</div>
+
