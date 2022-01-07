@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <servletapi.version>3.1.0</servletapi.version>
         <spring.jpa.data>1.10.6.RELEASE</spring.jpa.data>
-        <h2.version>1.4.187</h2.version>
+        <h2.version>2.0.206</h2.version>
         <entitymanager.version>5.2.5.Final</entitymanager.version>
     </properties>
     <dependencies>
