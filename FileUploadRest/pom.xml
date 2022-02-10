@@ -17,7 +17,7 @@
         <servletapi.version>3.1.0</servletapi.version>
         <spring.jpa.data>1.10.6.RELEASE</spring.jpa.data>
         <h2.version>1.4.187</h2.version>
-        <entitymanager.version>5.2.5.Final</entitymanager.version>
+        <entitymanager.version>5.4.24.Final</entitymanager.version>
     </properties>
     <dependencies>
         <dependency>
